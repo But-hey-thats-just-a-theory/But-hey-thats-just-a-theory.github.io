@@ -127,7 +127,7 @@
       "alwaysDrops": [
         {
           "itemName": "Dojo Tokens",
-          "amount": 500
+          "amount": 500000
         }
       ]
     }
