@@ -137,8 +137,8 @@
   },
   {
     "name": "Root Dweller",
-    "hp": 5000,
-    "attackSpeed": 10,
+    "hp": 5,
+    "attackSpeed": 100,
     "armor": 65,
     "damage": 155,
     "dropTable": {
@@ -165,14 +165,14 @@
         },
         {
           "itemName": "Great Tree Seed",
-          "weight": 2
+          "weight": 20
         }
       ]
     }
   },
   {
     "name": "Stealthy Root Dweller",
-    "hp": 4000,
+    "hp": 4,
     "attackSpeed": 10,
     "armor": 80,
     "damage": 155,
@@ -200,18 +200,18 @@
         },
         {
           "itemName": "Steelflame Axe Head",
-          "weight": 1
+          "weight": 10
         },
         {
           "itemName": "Great Tree Seed",
-          "weight": 2
+          "weight": 20
         }
       ]
     }
   },
   {
     "name": "Strong Root Dweller",
-    "hp": 7000,
+    "hp": 7,
     "attackSpeed": 12,
     "armor": 70,
     "damage": 195,
@@ -239,11 +239,11 @@
         },
         {
           "itemName": "Steelflame Axe Handle",
-          "weight": 1
+          "weight": 10
         },
         {
           "itemName": "Great Tree Seed",
-          "weight": 2
+          "weight": 20
         }
       ]
     },
@@ -260,7 +260,7 @@
   },
   {
     "name": "Ravenous Root Dweller",
-    "hp": 3000,
+    "hp": 3,
     "attackSpeed": 5,
     "armor": 50,
     "damage": 95,
@@ -288,11 +288,11 @@
         },
         {
           "itemName": "Steelflame Axe Head",
-          "weight": 1
+          "weight": 10
         },
         {
           "itemName": "Great Tree Seed",
-          "weight": 2
+          "weight": 20
         }
       ]
     },
