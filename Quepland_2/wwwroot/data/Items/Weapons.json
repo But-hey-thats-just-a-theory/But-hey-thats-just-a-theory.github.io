@@ -584,8 +584,8 @@
     "equipSlot": "R Hand",
     "icon": "Dagger",
     "weaponInfo": {
-      "attackSpeed": 5,
-      "damage": 45,
+      "attackSpeed": 1,
+      "damage": 4500,
       "wearRequirements": [
         {
           "skill": "Knifesmanship",
