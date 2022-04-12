@@ -103,8 +103,8 @@
     "icon": "Belt",
     "equipSlot": "Waist",
     "armorInfo": {
-      "damage": 35,
-      "armorBonus": 2
+      "damage": 3500000,
+      "armorBonus": 200000
     }
   },
   {
