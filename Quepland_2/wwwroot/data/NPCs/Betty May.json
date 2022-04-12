@@ -39,7 +39,7 @@
       "requirements": [
         {
           "item": "Great Tree Seed",
-          "itemAmount": 20
+          "itemAmount": 2
         }
       ],
       "consumeRequiredItems": true,
