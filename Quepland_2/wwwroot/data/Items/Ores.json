@@ -6,7 +6,7 @@
     "enabledActions": "Mining",
     "secondaryColor": "#757575",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.1,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
       "attackSpeed": 20,
@@ -26,7 +26,7 @@
     "enabledActions": "Mining",
     "secondaryColor": "#CD7F32",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.15,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
       "attackSpeed": 20,
@@ -46,7 +46,7 @@
     "enabledActions": "Mining",
     "secondaryColor": "#434341",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.25,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
       "attackSpeed": 22,
@@ -66,7 +66,7 @@
     "enabledActions": "Mining",
     "secondaryColor": "#9DC6E8",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.35,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
       "attackSpeed": 22,
@@ -86,7 +86,7 @@
     "enabledActions": "Mining",
     "secondaryColor": "#AF7979",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.45,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
       "attackSpeed": 22,
@@ -94,7 +94,7 @@
       "wearRequirements": [
         {
           "skill": "Hammermanship",
-          "skillLevel": 99
+          "skillLevel": 9
         }
       ]
     }
@@ -106,7 +106,7 @@
     "enabledActions": "Mining",
     "secondaryColor": "#ebed5a",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.55,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
       "attackSpeed": 22,
@@ -114,7 +114,7 @@
       "wearRequirements": [
         {
           "skill": "Hammermanship",
-          "skillLevel": 105
+          "skillLevel": 1
         }
       ]
     }
@@ -126,15 +126,15 @@
     "enabledActions": "Mining",
     "secondaryColor": "#3b7a0b",
     "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.75,
+    "gatherSpeedBonus": 1,
     "icon": "Pickaxe",
     "weaponInfo": {
-      "attackSpeed": 25,
+      "attackSpeed": 1,
       "damage": 450,
       "wearRequirements": [
         {
           "skill": "Hammermanship",
-          "skillLevel": 85
+          "skillLevel": 8
         }
       ]
     }
@@ -144,9 +144,9 @@
     "description": "It's a very soft, green ore.",
     "gatherString": "You mine some copper ore.",
     "value": 10,
-    "gatherSpeed": 15,
+    "gatherSpeed": 1,
     "requiredLevel": 1,
-    "experienceGained": "Mining:18",
+    "experienceGained": "Mining:1800",
     "icon": "Ore",
     "secondaryColor": "#B87333",
     "requirements": [
@@ -164,8 +164,8 @@
     "description": "A beautiful ore with ditetragonal dipramidal crystals.",
     "gatherString": "You mine some tin ore.",
     "value": 10,
-    "gatherSpeed": 15,
-    "experienceGained": "Mining:28",
+    "gatherSpeed": 1,
+    "experienceGained": "Mining:2800",
     "icon": "Ore",
     "secondaryColor": "#D3D4D5",
     "requirements": [
@@ -183,9 +183,9 @@
     "description": "An ore with zinc in it.",
     "gatherString": "You mine some calamine.",
     "value": 8,
-    "gatherSpeed": 15,
+    "gatherSpeed": 1,
     "secondaryColor": "#9E9EA0",
-    "experienceGained": "Mining:70",
+    "experienceGained": "Mining:7000",
     "icon": "Ore",
     "requirements": [
       {
@@ -202,9 +202,9 @@
     "description": "There's nickel in there.",
     "gatherString": "You mine some pentlandite.",
     "value": 20,
-    "gatherSpeed": 20,
+    "gatherSpeed": 1,
     "secondaryColor": "#A9A69B",
-    "experienceGained": "Mining:90",
+    "experienceGained": "Mining:9000",
     "icon": "Ore",
     "requirements": [
       {
@@ -221,9 +221,9 @@
     "description": "A rusty rock with goodies inside.",
     "gatherString": "You mine some iron ore.",
     "value": 30,
-    "gatherSpeed": 25,
+    "gatherSpeed": 1,
     "secondaryColor": "#434341",
-    "experienceGained": "Mining:110",
+    "experienceGained": "Mining:11000",
     "icon": "Ore",
     "requirements": [
       {
@@ -248,8 +248,8 @@
         "action": "Mining"
       }
     ],
-    "gatherSpeed": 15,
-    "experienceGained": "Mining:80",
+    "gatherSpeed": 1,
+    "experienceGained": "Mining:8000",
     "secondaryColor": "#202020",
     "gatherString": "You mine some coal.",
     "icon": "Coal"
@@ -267,8 +267,8 @@
         "action": "Mining"
       }
     ],
-    "gatherSpeed": 30,
-    "experienceGained": "Mining:130",
+    "gatherSpeed": 1,
+    "experienceGained": "Mining:13000",
     "secondaryColor": "#999999",
     "gatherString": "You mine some silver ore.",
     "icon": "Ore"
@@ -280,7 +280,7 @@
     "gatherString": "You mine some galena.",
     "value": 80,
     "gatherSpeed": 40,
-    "experienceGained": "Mining:170",
+    "experienceGained": "Mining:17000",
     "icon": "Ore",
     "requirements": [
       {
@@ -298,7 +298,7 @@
     "gatherString": "You mine some cinnabar.",
     "value": 110,
     "gatherSpeed": 30,
-    "experienceGained": "Mining:220",
+    "experienceGained": "Mining:22000",
     "icon": "Ore",
     "requirements": [
       {
@@ -317,7 +317,7 @@
     "secondaryColor": "#F1F3F0",
     "value": 110,
     "gatherSpeed": 40,
-    "experienceGained": "Mining:130",
+    "experienceGained": "Mining:13000",
     "icon": "Ore",
     "requirements": [
       {
@@ -336,7 +336,7 @@
     "secondaryColor": "#3b7a0b",
     "value": 20,
     "gatherSpeed": 80,
-    "experienceGained": "Mining:30",
+    "experienceGained": "Mining:3000",
     "icon": "Ore",
     "requirements": [
       {
@@ -355,7 +355,7 @@
     "secondaryColor": "#FFD700",
     "value": 350,
     "gatherSpeed": 50,
-    "experienceGained": "Mining:150",
+    "experienceGained": "Mining:15000",
     "icon": "Ore",
     "requirements": [
       {
@@ -374,7 +374,7 @@
     "secondaryColor": "#E5E4E2",
     "value": 530,
     "gatherSpeed": 70,
-    "experienceGained": "Mining:250",
+    "experienceGained": "Mining:25000",
     "icon": "Ore",
     "requirements": [
       {
@@ -393,7 +393,7 @@
     "value": 400,
     "gatherSpeed": 90,
     "secondaryColor": "#AF7979",
-    "experienceGained": "Mining:550",
+    "experienceGained": "Mining:55000",
     "icon": "Ore",
     "requirements": [
       {
@@ -411,7 +411,7 @@
     "gatherString": "You mine some sahotite ore.",
     "value": 630,
     "gatherSpeed": 100,
-    "experienceGained": "Mining:850",
+    "experienceGained": "Mining:85000",
     "secondaryColor": "#C3D3F3",
     "icon": "Ore",
     "requirements": [
@@ -430,7 +430,7 @@
     "gatherString": "You mine some plastinium ore.",
     "value": 890,
     "gatherSpeed": 140,
-    "experienceGained": "Mining:990",
+    "experienceGained": "Mining:99000",
     "secondaryColor": "#718A94",
     "icon": "Ore",
     "requirements": [
@@ -449,7 +449,7 @@
     "gatherString": "You mine some queplinium ore.",
     "value": 1300,
     "gatherSpeed": 190,
-    "experienceGained": "Mining:2000",
+    "experienceGained": "Mining:200000",
     "secondaryColor": "#B787DC",
     "icon": "Ore",
     "requirements": [
@@ -469,7 +469,7 @@
     "secondaryColor": "#3b7a0b",
     "value": 15,
     "gatherSpeed": 25,
-    "experienceGained": "Mining:30",
+    "experienceGained": "Mining:3000",
     "icon": "Fragments",
     "isStackable": true,
     "requirements": [
@@ -489,7 +489,7 @@
     "secondaryColor": "#3b7a0b",
     "value": 5,
     "gatherSpeed": 25,
-    "experienceGained": "Mining:30",
+    "experienceGained": "Mining:3000",
     "icon": "Powder",
     "isStackable": true,
     "requirements": [
